@@ -11,7 +11,7 @@ print(f"You have saved {total_saved} in {months_gone_by} months")
 
 In the above code, the user's monthly savings is recorded in the variable `money_saved_per_month` and the number of months that have passed since the user started saving is recorded in the `months_gone_by` variable. The user's total savings is calculated by multiplying these two variables and assigning the value of the result to the `total_saved` variable. Finally, the script uses an f-string to print a message to the user.
 
-In this above example, the f-string is this part:
+In the above example, the f-string is this part:
 
 ```py
 f"You have saved {total_saved} in {months_gone_by} months"
